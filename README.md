@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2> Hi, I'm Ajay!</h2>
+<img align='right' src="https://i.imgur.com/UfHM6tb.gif" width="230">
+<p> I am a STEM minded Computer Science student, well versed in modern software engineering/development cycles with a passion for security.</p>
+<p><em>Software Enginner at <a href="http://ibm.com">IBM</a>
+</em></p>
 
-<!--
-**ajay340/ajay340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Ajay Shah](https://img.shields.io/badge/-AjayShah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shah-ajay/)](https://www.linkedin.com/in/shah-ajay/)
+[![GitHub ajay340](https://img.shields.io/github/followers/ajay340?label=follow&style=social)](https://github.com/ajay340)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me...  
+
+```javascript
+ajay: Developer = {
+  code: [Python, GoLang, Java, Scheme(Racket), SQL, HTML],
+  framework: [Django, Flask, Echo, Tkinter, Selenium],
+  tools: [MongoDB, Docker, Elasticsearch, PostgreSQL, MySQL, Heroku, AWS, Azure],
+  architecture: ["microservices", "test-driven", "monolithic", "agile", "design system pattern"],
+}
+```
