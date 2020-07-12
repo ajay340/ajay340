@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ajay!</h2>
 <img align='right' src="https://i.imgur.com/UfHM6tb.gif" width="230">
 <p> I am a STEM minded Computer Science student, well versed in modern software engineering/development cycles with a passion for security.</p>
-<p><em>Software Enginner at <a href="http://ibm.com">IBM</a>
+<p><em>Security Software Enginner Intern at <a href="http://ibm.com">IBM</a>
 </em></p>
 
 [![Linkedin: Ajay Shah](https://img.shields.io/badge/-AjayShah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shah-ajay/)](https://www.linkedin.com/in/shah-ajay/)
