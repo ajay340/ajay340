@@ -18,4 +18,3 @@ ajay: Developer = {
   architecture: ["microservices", "test-driven", "monolithic", "agile", "design system pattern"],
 }
 ```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay340&hide=javascript,html,css)
