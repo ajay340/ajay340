@@ -1,5 +1,5 @@
 <h2> Hi, I'm Ajay!</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ajay340&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ajay340&show_icons=true&count_private=true">
 <p> I am a STEM minded Computer Science student, well versed in modern software engineering/development cycles with a passion for security.</p>
 <p><em>Security Software Enginner Intern at <a href="http://ibm.com">IBM</a>
 </em></p>
@@ -18,3 +18,4 @@ ajay: Developer = {
   architecture: ["microservices", "test-driven", "monolithic", "agile", "design system pattern"],
 }
 ```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay340&hide=javascript,html,css)
