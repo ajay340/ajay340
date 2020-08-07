@@ -15,6 +15,6 @@ ajay: Developer = {
   code: [Python, GoLang, Java, Scheme(Racket), SQL, HTML],
   framework: [Django, Flask, Echo, Tkinter, Selenium],
   tools: [MongoDB, Docker, Elasticsearch, PostgreSQL, MySQL, Heroku, AWS, Azure],
-  architecture: ["microservices", "test-driven", "monolithic", "agile", "design system pattern"],
+  architecture: ["microservices", "test-driven", "monolithic", "agile"],
 }
 ```
