@@ -12,7 +12,7 @@
 
 ```javascript
 ajay: Developer = {
-  code: [Python, GoLang, Java, Javascript, Scheme(Racket), SQL, HTML],
+  code: [Python, GoLang, Java, Javascript, Node, Scheme(Racket), SQL, HTML],
   framework: [Django, Flask, Express, React JS, Keras, Echo, Tkinter, Selenium],
   tools: [MongoDB, Docker, Elasticsearch, PostgreSQL, MySQL, Heroku, IBM Cloud, AWS, Azure],
   architecture: ["microservices", "test-driven", "monolithic", "agile"],
