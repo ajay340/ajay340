@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ajay!</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ajay340&show_icons=true&count_private=true">
-<p>As a software engineer in security products, I have hands-on experience building dynamically scalable, available, fault-tolerant, and reliable applications.</p>
+<p>As a software engineer in security and big data products, I have hands-on experience building dynamically scalable, available, fault-tolerant, and reliable applications.</p>
 <p><em>Software Development Engineer at <a href="http://amazon.com">Amazon</a>
 </em></p>
 
