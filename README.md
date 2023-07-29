@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ajay!</h2>  
  <img src="https://komarev.com/ghpvc/?username=ajay340&label=Profile%20views&color=0e75b6&style=flat" alt="ajay340" />
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ajay340&show_icons=true&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay340&show_icons=true&locale=en&layout=compact" alt="ajay340" />
 <p>As a software engineer in security and big data products, I have hands-on experience building dynamically scalable, available, fault-tolerant, and reliable applications.</p>
 <p><em>Software Development Engineer at <a href="http://amazon.com">Amazon</a></em></p>
 
@@ -18,4 +18,3 @@ ajay: Developer = {
   architecture: ["microservices", "test-driven", "monolithic", "agile"],
 }
 ```
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay340&show_icons=true&locale=en&layout=compact" alt="ajay340" />
